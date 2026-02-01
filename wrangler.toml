@@ -10,3 +10,6 @@ compatibility_date = "2025-11-21"
 
 # 这是一个单文件 Worker，不需要构建步骤 (如 webpack/esbuild)，可以直接部署。
 # type = "javascript" # 默认值，可以省略
+preview_urls = false
+
+workers_dev = false
